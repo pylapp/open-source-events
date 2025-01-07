@@ -1,3 +1,16 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Add FOSDEM 2025 (Brussels, Belgium) ([4780cd](https://github.com/Everything-Open-Source/open-source-events/commit/4780cd762ce73ceb5e682744331b674568e9b100))
+- Add Capitole du Libre 2024 (Toulouse, France) ([b215c0e](https://github.com/Everything-Open-Source/open-source-events/commit/4780cd762ce73ceb5e682744331b674568e9b100))
+
 # <p align="center"> Open Source Events to attend in 2025 :sparkles: </p>
 
 This is a collection of Open Source events or conferences to look out for in 2025.
